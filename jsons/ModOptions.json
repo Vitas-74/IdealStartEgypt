@@ -3,10 +3,6 @@
     {"Civilization": "Egypt", "Terrain": "Desert", "Tier": 1},
     {"Civilization": "Egypt", "Terrain": "Coast", "Tier": 1}
   ],
-  "StartBiasFeatures": [
-    {"Civilization": "Egypt", "Feature": "Hill", "Tier": 1}
-  ],
-  "StartBiasRivers": [
-    {"Civilization": "Egypt", "Tier": 1}
-  ]
+  *// "StartBiasFeatures": [{"Civilization": "Egypt", "Feature": "Hill", "Tier": 1}],
+ *// "StartBiasRivers": [{"Civilization": "Egypt", "Tier": 1}]
 }
