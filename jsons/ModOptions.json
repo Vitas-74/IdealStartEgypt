@@ -1,6 +1,1 @@
-{
-  "StartBiasTerrains": [
-    {"Civilization": "Egypt", "Terrain": "Desert", "Tier": 1},
-    {"Civilization": "Egypt", "Terrain": "Coast", "Tier": 1}
-  ]
-}
+{"constants":{"cityWorkRange":86,"cityExpandRange":86,"minimalCityDistance":6,"minimalCityDistanceOnDifferentContinents":6,}}
